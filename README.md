@@ -19,9 +19,7 @@
 <br />
 
  ## Step to Start Project
- 
 
- 
 **For Backend**
  1. `git clone https://github.com/MohitSojitra/e-commerce-store.git`
  2. `cd e-comerce-backend`
